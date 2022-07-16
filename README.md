@@ -1,4 +1,7 @@
 ### Hi there 👋
+### I'm Friso van der Veen
+
+I'm a Computer Science student from the Netherlands, currently studying at TU Delft.
 
 <!--
 **fvdveen/fvdveen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
